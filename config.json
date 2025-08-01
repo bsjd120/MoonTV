@@ -84,16 +84,14 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-  }
-}
-// ...更多站点
-  },
-  "custom_category": [
+   }
+   "custom_category": [
     {
       "name": "国产动漫",
       "type": "movie",
-      "query": "国产动漫",
+      "query": "国产动漫"
     }
   ]
+}
+  }
 }
