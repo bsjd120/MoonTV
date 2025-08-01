@@ -86,11 +86,13 @@
       "name": "小猫咪资源"
     }
   }
-"custom_category": [
+}
+},
+  "custom_category": [
     {
-      "name": "国产动漫",
+      "name": "华语",
       "type": "movie",
-      "query": "国产动漫"
+      "query": "华语"
     }
   ]
 }
